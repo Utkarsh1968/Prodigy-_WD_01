@@ -1,2 +1,2 @@
-# Prodigy-_WD_01
+# Prodigy_WD_01
 Responsive landing page
